@@ -78,7 +78,9 @@ The objective of this project is to analyze how casual riders and annual members
   - `=SUM(...)` for ride count
 - Created **bar charts** to visualize:
   - Average ride duration
+  - ![Average Ride Length Chart](https://github.com/jonlucaz/Cyclistic-Bike-Share-Analysis-Google-Capstone/blob/main/number_ride.png)
   - Number of rides
+  - ![Ride Count Chart](https://github.com/jonlucaz/Cyclistic-Bike-Share-Analysis-Google-Capstone/blob/main/ride_length.png)
 
 **Key Insights:**
 - Annual members ride more consistently on weekdays → likely for commuting.
